@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Custom Calendar Embed</title>
+<style>
+    body {
+        background-color: #333; /* Dark background */
+        color: white; /* Light text */
+    }
+    iframe {
+        width: 100%;
+        height: 600px;
+        border: none;
+    }
+</style>
+</head>
+<body>
+<iframe src=https://outlook.office365.com/owa/calendar/0be319304af4431da75cd9c1a99cda78@wpi.edu/0fa0ed52c2954dd6b521e94d779885d011150793324486683582/calendar.html></iframe>
+</body>
+</html>
